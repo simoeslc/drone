@@ -1,1 +1,5 @@
 .. _VK2828U7G5LF:
+[copywiki destination="plane,copter,rover,blimp,sub"]
+======================
+K-KEL-GPS/VK2828U7G5LF
+======================
