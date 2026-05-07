@@ -24,11 +24,11 @@ Features
 
 Pinout
 ======
-.. image:: ../../../images/DAKEFPVH743Pro_Top.png
-   :target: ../_images/DAKEFPVH743Pro_Top.png
+.. image:: /imagens/DAKEFPVH743Pro_Top.png
+   :target: /imagens/DAKEFPVH743Pro_Top.png
 
-.. image:: ../../../images/DAKEFPVH743Pro_Bottom.png
-   :target: ../_images/DAKEFPVH743Pro_Bottom.png
+.. image:: /imagens/DAKEFPVH743Pro_Bottom.png
+   :target: /imagens/DAKEFPVH743Pro_Bottom.png
 
 DAKEFPV H743 Pro Wiring Diagram
 ===============================
