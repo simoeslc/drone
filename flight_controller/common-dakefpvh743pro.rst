@@ -25,19 +25,19 @@ Features
 Pinout
 ======
 .. image:: imagens/DAKEFPVH743Pro_Top.png
-   :target: /imagens/DAKEFPVH743Pro_Top.png
+   :target: imagens/DAKEFPVH743Pro_Top.png
 
-.. image:: /imagens/DAKEFPVH743Pro_Bottom.png
-   :target: /imagens/DAKEFPVH743Pro_Bottom.png
+.. image:: imagens/DAKEFPVH743Pro_Bottom.png
+   :target: imagens/DAKEFPVH743Pro_Bottom.png
 
 DAKEFPV H743 Pro Wiring Diagram
 ===============================
 
-.. image:: ../../../images/DAKEFPVH743Pro_WiringDiagramTop.png
-   :target: ../_images/DAKEFPVH743Pro_WiringDiagramTop.png
+.. image:: imagens/DAKEFPVH743Pro_WiringDiagramTop.png
+   :target: imagens/DAKEFPVH743Pro_WiringDiagramTop.png
 
-.. image:: ../../../images/DAKEFPVH743Pro_WiringDiagramBottom.png
-   :target: ../_images/DAKEFPVH743Pro_WiringDiagramBottom.png
+.. image:: imagens/DAKEFPVH743Pro_WiringDiagramBottom.png
+   :target: imagens/DAKEFPVH743Pro_WiringDiagramBottom.png
 
 UART Mapping
 ============
