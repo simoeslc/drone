@@ -24,7 +24,7 @@ Features
 
 Pinout
 ======
-.. image:: /imagens/DAKEFPVH743Pro_Top.png
+.. image:: imagens/DAKEFPVH743Pro_Top.png
    :target: /imagens/DAKEFPVH743Pro_Top.png
 
 .. image:: /imagens/DAKEFPVH743Pro_Bottom.png
